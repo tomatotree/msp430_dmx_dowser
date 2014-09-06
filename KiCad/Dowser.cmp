@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 9/1/2014 10:48:56 PM
+
+BeginCmp
+TimeStamp = /5251ECF3;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250EBC8;
+Reference = C2;
+ValeurCmp = 2.2uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250EA26;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250EA64;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251B617;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251BD30;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251B764;
+Reference = J1;
+ValeurCmp = RS485_TH;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251B77D;
+Reference = J2;
+ValeurCmp = RS485_IN;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251B7BD;
+Reference = J3;
+ValeurCmp = PROGRAM;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251BCAC;
+Reference = J4;
+ValeurCmp = SERVO;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251DA24;
+Reference = J5;
+ValeurCmp = 5VDC_IN;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251B5B6;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250EBB5;
+Reference = R1;
+ValeurCmp = 47K;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54055986;
+Reference = R2;
+ValeurCmp = 100;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /532A2F17;
+Reference = SW1;
+ValeurCmp = DIPS_09;
+IdModule  = DIPS-DS09;
+EndCmp
+
+BeginCmp
+TimeStamp = /5250E375;
+Reference = U1;
+ValeurCmp = MSP430G2553IN20;
+IdModule  = DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5251EABC;
+Reference = U2;
+ValeurCmp = SN65176B;
+IdModule  = DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5252077A;
+Reference = U3;
+ValeurCmp = LD1117X33;
+IdModule  = TO220_VERT;
+EndCmp
+
+EndListe

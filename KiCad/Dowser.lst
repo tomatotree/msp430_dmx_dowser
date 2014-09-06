@@ -1,0 +1,42 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 10/6/2013 11:47:37 PM
+#Cmp ( order = Reference )
+| C1         0.1uF       
+| C2         2.2uF       
+| C3         0.1uF       
+| C4         10uF        
+| C5         0.1uF       
+| C6         0.1uF       
+| J1         RS485_TH    
+| J2         RS485_IN    
+| J3         PROGRAM     
+| J4         SERVO       
+| J5         5VDC_IN     
+| JP1        JUMPER      
+| R1         47K         
+| R2         100R        
+| U1         MSP430G2553IN20
+| U2         SN65176B    
+| U3         LD1117X33   
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1uF        C1        
+| 0.1uF        C3        
+| 0.1uF        C5        
+| 0.1uF        C6        
+| 2.2uF        C2        
+| 10uF         C4        
+| RS485_TH     J1        
+| RS485_IN     J2        
+| PROGRAM      J3        
+| SERVO        J4        
+| 5VDC_IN      J5        
+| JUMPER       JP1       
+| 100R         R2        
+| 47K          R1        
+| SN65176B     U2        
+| MSP430G2553IN20 U1        
+| LD1117X33    U3        
+#End Cmp
+
+#End List
